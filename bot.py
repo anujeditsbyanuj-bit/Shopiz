@@ -57,13 +57,13 @@ def premium_emoji(text):
     return result
 
 # Bot Configuration
-OWNER_ID = 8941762218
+OWNER_ID = 8730393744
 
 def is_owner(user_id):
     return user_id == OWNER_ID
 API_ID = 21124241
 API_HASH = 'b7ddce3d3683f54be788fddae73fa468'
-BOT_TOKEN = '8804878746:AAExjU_Ca1R3-hEg4xiNsQ807lPNZING9iE'
+BOT_TOKEN = '8946367857:AAGpDdtG2ZFMG2HeZh-Ve_Ey13pyW-_xVaU'
 
 
 # File paths
